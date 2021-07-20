@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align = "center">🌟Hello I'm JoonSeok✨</h3>
 
 <p align="center">
@@ -35,7 +34,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjs941008a@gmail.com)](mailto:kjs941008a@gmail.com)
 </div>
-### :floppy_disk: Repositories
+## :floppy_disk: Repositories
 </div>
 
 <p align="center">
