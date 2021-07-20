@@ -43,7 +43,7 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  <!-- Spring -->
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project)  <!-- C# -->
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)  <!-- Python -->
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=JSP_Festival)](https://github.com/qkr03210/JSP_Festival) <!-- JSP -->
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kjs941008&repo=jsp_project)](https://github.com/kjs941008/jsp_project) <!-- JSP -->
 
 </p>
 <br/>
