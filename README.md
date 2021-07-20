@@ -40,17 +40,16 @@
 
 <p align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=TeamProject)](https://github.com/qkr03210/TeamProject) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=TeamProject)](https://github.com/qkr03210/TeamProject)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=JSP_Festival)](https://github.com/qkr03210/JSP_Festival)
 
 </p>
 <br/>
 <p align="center">
 
-### 🌀 Languages
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkr03210&layout=compact)](https://github.com/qkr03210/github-readme-stats)
-<!--
 **kjs941008/kjs941008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
