@@ -19,7 +19,7 @@
 <h3 align = "center">📮Contact me📮</h3>
 <div align=center>
 
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltmdwlr@gmail.com)](mailto:dltmdwlr@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%8A%B9%EC%A7%81-%EC%9D%B4-346b2b216/)](https://www.linkedin.com/in/%EC%8A%B9%EC%A7%81-%EC%9D%B4-346b2b216/)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltmdwlr@gmail.com)](mailto:dltmdwlr@gmail.com)
 </div>
 
 <!--
