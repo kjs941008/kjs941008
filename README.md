@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align = "center">🌟Hello I'm Seungjik✨</h3>
+<h1 align = "center">🌟Hello I'm JoonSeok✨</h3>
 
 <p align="center">
 <img alt="Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungjik-Lee%2Fhit-counter&count_bg=%23905ADB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=true"/>
