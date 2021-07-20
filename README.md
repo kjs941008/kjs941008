@@ -40,7 +40,7 @@
 
 <p align="center">
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=TeamProject)](https://github.com/JM-94/javaH)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JM-94&repo=JM-94/javaH)](https://github.com/JM-94/javaH)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=jsp_teamproject)](https://github.com/qkr03210/jsp_teamproject)  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=C_Sharp_project)](https://github.com/qkr03210/C_Sharp_project)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qkr03210&repo=Python_hwp)](https://github.com/qkr03210/Python_hwp)
